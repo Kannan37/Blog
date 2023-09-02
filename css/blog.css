@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    background-image: url(../images/bgimg.jpg);
+    background-size: cover;
+    height: 180vh;
+    width: 100%;
+}
 .heading , .heading__sub{
     margin-top : 2rem;
     font-size: 2rem;
